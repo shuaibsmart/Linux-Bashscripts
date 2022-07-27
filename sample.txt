@@ -1,2 +1,0 @@
-# Linux-healthcheck
-Basically a Bash script used to run and analyse linux server health and resources information.
