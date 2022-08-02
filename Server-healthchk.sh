@@ -1,5 +1,5 @@
 #!/bin/bash
-# system-chk.sh version 1.1 Dated 25 Nov 2016
+# system-chk.sh 
 #set -x
 
 if [ -f /usr/sbin/ifconfig ]; then
